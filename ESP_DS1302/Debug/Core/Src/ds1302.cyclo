@@ -1,0 +1,10 @@
+../Core/Src/ds1302.c:10:6:DS1302_Init	1
+../Core/Src/ds1302.c:18:6:DS1302_ForceInitTime	1
+../Core/Src/ds1302.c:31:6:DS1302_SetTime	1
+../Core/Src/ds1302.c:54:6:DS1302_GetTime	1
+../Core/Src/ds1302.c:70:13:DS1302_WriteByte	2
+../Core/Src/ds1302.c:80:16:DS1302_ReadByte	3
+../Core/Src/ds1302.c:92:13:DS1302_Set_DAT_Input	1
+../Core/Src/ds1302.c:100:13:DS1302_Set_DAT_Output	1
+../Core/Src/ds1302.c:109:9:BCD2DEC	1
+../Core/Src/ds1302.c:113:9:DEC2BCD	1

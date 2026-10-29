@@ -1,0 +1,11 @@
+# 通用
+*.o *.axf *.elf
+.build/ Release/ Debug/
+.idea/ .vscode/* !.vscode/settings.json
+__pycache__/ *.pt *.onnx
+# 嵌入式
+*.uvoptx *.uvguix
+# Python
+.venv/ venv/
+# 小程序
+node_modules/ miniprogram_npm/

@@ -1,0 +1,6 @@
+../Core/Src/esp.c:29:6:ESP8266_SendCommand	24	static
+../Core/Src/esp.c:35:6:ESP8266_Init	16	static
+../Core/Src/esp.c:58:6:ESP8266_ConnectToWiFi	536	static
+../Core/Src/esp.c:68:6:ESP8266_ConnectToHuaweiCloud	528	static
+../Core/Src/esp.c:116:6:ESP8266_SendSensorData	40	static
+../Core/Src/esp.c:135:6:ESP8266_response	24	static
